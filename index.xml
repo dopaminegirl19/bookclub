@@ -2,40 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faculty book club</title>
-    <link>https://dopaminegirl19.github.io/</link>
+    <link>https://dopaminegirl19.github.io/bookclub/</link>
     <description>Recent content on Faculty book club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Athul</copyright>
-    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dopaminegirl19.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>November 2021</title>
-      <link>https://dopaminegirl19.github.io/read/post-1/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dopaminegirl19.github.io/read/post-1/</guid>
-      <description>Suggest books via this website or in the #book-recommendations slack channel.
-Voting will take place early next week :)</description>
-    </item>
-    
-    <item>
-      <title>Suggest: November 2021 meeting</title>
-      <link>https://dopaminegirl19.github.io/suggest/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dopaminegirl19.github.io/suggest/</guid>
-      <description>The first book club will take place mid november. Suggestions will be voted on early w.c. 27/9 =)
-form </description>
-    </item>
-    
-    <item>
-      <title>Vote: November 2021 meeting</title>
-      <link>https://dopaminegirl19.github.io/vote/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dopaminegirl19.github.io/vote/</guid>
-      <description>The first book club will take place mid november; voting will take place via this page early w.c. 27/9.</description>
-    </item>
-    
+    <copyright>© Athul</copyright><atom:link href="https://dopaminegirl19.github.io/bookclub/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
