@@ -1,3 +1,3 @@
 +++
-authors: "Morgane"
+author = "Morgane"
 +++
