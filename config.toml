@@ -1,0 +1,32 @@
+baseURL = "https://dopaminegirl19.github.io/"
+languageCode = "en-us"
+title = "Faculty book club"
+theme="archie"
+copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = ""
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/dopaminegirl19"
+
+[[menu.main]]
+name = "read"
+url = "/"
+weight = 2
+
+[[menu.main]]
+name = "suggest"
+url = "/suggest"
+weight = 3
+
+[[menu.main]]
+name = "vote"
+url = "/vote"
+weight = 4
